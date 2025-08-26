@@ -1,17 +1,44 @@
-<<<<<<< HEAD
-# React + Vite
+T-Shirt Customizer 👕
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js project built with Three.js and TailwindCSS that allows users to customize T-shirts in 3D. The project is powered by Vite for fast development and easy setup.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Interactive 3D T-shirt rendering with Three.js
 
-## Expanding the ESLint configuration
+Clean, responsive UI styled with TailwindCSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# t-shirt_customizer
-Interactive UI for customizing your own T shirt with 3D visuals
->>>>>>> d0129fdac0b800c32784ab896dd67b52cc283db7
+Built on React.js with component-based architecture
+
+Fast development environment powered by Vite
+
+📦 Installation
+
+Clone the repository and install dependencies:
+
+git clone https://github.com/morningrise80/t-shirt_customizer.git
+cd t-shirt_customizer_ui
+npm install
+
+🛠️ Usage
+
+To start the development server, run:
+
+npm run dev
+
+
+Open your browser at the URL shown in the terminal (usually http://localhost:5173).
+
+📂 Tech Stack
+
+React.js
+ – Frontend framework
+
+Three.js
+ – 3D rendering library
+
+TailwindCSS
+ – Utility-first CSS framework
+
+Vite
+ – Build tool and dev server
